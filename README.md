@@ -1,5 +1,5 @@
 # Project101
 This is our first project of B.sc(ECS) third year
 <br>
-Author Name: Ms.Vaishnavi Kadam
+Author Name: Mr.Akash Banda
 
